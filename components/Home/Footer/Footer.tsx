@@ -16,13 +16,13 @@ const Footer = () => {
             <div>
                 <h1 className='text-xl font-bold text-white'>Contact</h1>
                 <p className='text-white opacity-60 mt-4'>Email</p>
-                <p className='text-white sm:text-xl text-lg font-bold opacity-60'>Legends@gmail.com</p>
+                <p className='text-white sm:text-xl text-lg font-bold opacity-60'>tyagichirag009@gmail.com</p>
                 <p className='text-white opacity-60 mt-4'>Phone</p>
-                <p className='text-white sm:text-xl text-lg font-bold opacity-60'>+91 630xxxx321</p>
+                <p className='text-white sm:text-xl text-lg font-bold opacity-60'>+91 8791xxxx17</p>
             </div>
         </div>
         <div className='w-[80%] mx-auto text-gray-300 mt-6'>
-            &copy; Abhishek 2025. All rights reserved.
+            &copy; Chirag Tyagi 2025. All rights reserved.
         </div>
     </div>
   )
